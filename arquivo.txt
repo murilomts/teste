@@ -1,0 +1,3 @@
+Novo texto
+Segunda linha, alterada.
+Terceiro texto
